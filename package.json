@@ -1,0 +1,26 @@
+{
+  "name": "chance_adv",
+  "main": "./chance_adv.js",
+  "version": "0.1.0",
+  "description": "Chance Advanced - Add-on functions for ChanceJS",
+  "homepage": "https://github.com/digihaven/chancejs_adv",
+  "author": {
+    "name": "James Adams",
+    "email": "james@digihaven.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digihaven/chancejs_adv/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digihaven/chancejs_adv/chancejs.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chance": "*"
+  },
+  "dependencies": {
+    "chance": "*"
+  },
+  "readmeFilename": "README.md"
+}
